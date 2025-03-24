@@ -5,7 +5,7 @@ This repository contains the TensorFlow codes to facilitate reproducibility of s
 "Bloch-Simulator-Driven Deep Recurrent Neural Network for Magnetization Transfer Contrast MR Fingerprinting and CEST Imaging" and for 
 further developments in CEST imaging. Here, pretrained models and numerical phantom data are provided to estimate tissue parameters. 
 Pretrained models can also be used for estimation of in-vivo tissue parameters from MTC-MRF signals. However, it requires specific sequence 
-for acquisition of MTC-MRF signals, details are mentioned in the paper (~~Publication~~).
+for acquisition of MTC-MRF signals, details are mentioned in the paper (<https://doi.org/10.1002/mrm.29748>).
 
 ![Concept_figure](https://user-images.githubusercontent.com/122308855/211408433-880deae2-bf03-4465-94fa-ccc62554b90a.jpg)
 
